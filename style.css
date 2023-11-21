@@ -79,6 +79,7 @@ a:hover {
   font-weight: bolder;
 }
 .secondtext{
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   font-weight: bolder;
   position: absolute;
@@ -280,7 +281,7 @@ img{
   position: relative;
   font-size: 60px;
   font-weight: bold;
-  margin-left: 39px;
+  margin-left: 36px;
   margin-bottom: 20px;
 }
 /*image slider*/
