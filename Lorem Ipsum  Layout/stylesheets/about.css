@@ -1,0 +1,16 @@
+.about-section{
+    padding-top: 60px;
+}
+
+.about-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.about-intro{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
