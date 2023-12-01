@@ -1,7 +1,7 @@
 .technologies-section{
+    padding: 10px;
     display: grid;
     grid-template-rows: 1fr 2fr;
-    padding: 10px;
 }
 .technologies-title{
     display: flex;
@@ -10,14 +10,14 @@
 }
 .technologies-content{
     display: grid;
-    justify-content: space-between;
+    justify-content: center;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     gap: 10px;
 }
 .technologies-indi-content{
     padding: 10px;
-    background-color: lightcyan;
-    border-radius: 20px;
-    border-style: solid;
-    border-color: lightblue;
+    background-color: rgb(220, 220, 220);
+}
+.technologies-content ul{
+    padding-left: 20px;
 }

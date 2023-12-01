@@ -3,6 +3,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
+    justify-content: center;
     grid-template-areas: "left right";
 }
 
@@ -13,18 +14,13 @@
     justify-content: center;
 }
 .services-content{
-    padding-top: 60px;
     grid-area: left;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    justify-content: center;
     gap: 10px;
 }
-.services-indi-content{   
+.services-indi-content{
     padding: 10px;
-    background-color: lightcyan;
-    border-radius: 20px;
-    border-style: solid;
-    border-color: lightblue;
+    background-color: rgb(220, 220, 220);
 }
 
